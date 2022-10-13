@@ -23,8 +23,6 @@
         text-align: center;
     }
     .order-container {
-        position: -webkit-sticky;
-        position: sticky;
         top: 80px;
         width: 100%;
         background-color: lightgoldenrodyellow;
@@ -42,8 +40,6 @@
         margin: 0px 15px; 
     }
     .order-container {
-        position: -webkit-sticky;
-        position: sticky;
         top: 80px;
         width: 100%;
         background-color: lightgoldenrodyellow;
